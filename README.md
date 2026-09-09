@@ -1,3 +1,4 @@
+<img width="1979" height="1302" alt="model_accuracy_comparison (1)" src="https://github.com/user-attachments/assets/f52f7ff4-81ff-4495-aecf-32b2052b5cfc" />
 
 # 🎓 Student Performance Classification
 Predicting student academic performance (**Low / Medium / High**) using behavioral engagement data from an e-learning platform, built with a full ML pipeline — EDA, preprocessing, model comparison, and hyperparameter tuning.
