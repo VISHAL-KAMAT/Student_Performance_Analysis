@@ -3,8 +3,6 @@
 # 🎓 Student Performance Classification
 Predicting student academic performance (**Low / Medium / High**) using behavioral engagement data from an e-learning platform, built with a full ML pipeline — EDA, preprocessing, model comparison, and hyperparameter tuning.
 
-![Model Accuracy Comparison](model_accuracy_comparison.png)
-
 ## 📌 Overview
 
 Educational institutions increasingly rely on data-driven insights to understand what drives student outcomes. This project analyzes academic activity and engagement data from the **xAPI-Edu-Data** dataset to build a classification model that predicts a student's performance level.
